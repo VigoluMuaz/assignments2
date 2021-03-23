@@ -7,9 +7,9 @@ public class question10 {
 		int hour = 12;
 		int minute = 24;
 		int second = 33;
-		String muaz = " PM";
+		String PM = " PM";
 		
-		System.out.println(hour + ":" + minute + ":" + second +  muaz);
+		System.out.println(hour + ":" + minute + ":" + second +  PM);
 		
 		
 
